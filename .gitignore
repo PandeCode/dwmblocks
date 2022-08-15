@@ -1,5 +1,6 @@
 # Custom blocks file
-blocks.h
+# blocks.h
+.cache
 
 # Prerequisites
 *.d
